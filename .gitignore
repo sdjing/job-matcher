@@ -1,0 +1,6 @@
+resume.pdf
+jobs.csv
+results.csv
+__pycache__/
+*.pyc
+.env
